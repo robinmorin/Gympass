@@ -1,0 +1,20 @@
+- O arquivo log deviu ser modificado para o corredor 38, porque não tinha bem o nombre mas o codigo sim
+- Desenvolvi no Java 8, IDE JetBrains IDEA.
+- Tem duas opções de execução:
+        1. Ir até a pasta \interview-test\out\artifacts\interview_test_jar pelo CMD, e executar o siguente comando:
+            > java -jar interview-test.jar
+        2. Abrir o projeto no IDEA e Executar (No caso não esteja a configuração para execução no seu IDEA, precisa saber que a
+        classe inicial esta no package app e seu nome é : KartApp
+- Tempo aprox de desenvolvimento: 11 hrs aprox, mesmo que a descarga for na sexta 23/08/2019, esse fim de semana não fiz absolutamente no projeto,
+  inverti 2 hrs na sexta 23/08, 4 hrs 27/08, e 5hrs desde 28/08 a meia noite, lembre que falaram de um prazo de 5 dias.
+- Desenvolvi tendo presente as boas praticas de desenvolvimento no Java, tendo em conta os principios SOLID, usei patrões de desenho como o Builder,
+  Singleton, Abstract Factory com Implementações, separei as responsabilidades entre o Reader (que poderia lêr qualquer outro arquivo, só há que implementar
+  a criação do objeto especifico, para isso usei o tipo T Generics para facilitar-o) e o Service.
+- As variavéis tem nome com standard Java e intuitivo de relacionamento.
+- Fiz algumas aclarações no caminho, por exemplo, quando usei array para entrar em bucles Lambda, somente para que não conheça essa novidade.
+- Fiz a saida pela Consola normal para mostrar as informações solicitadas.
+
+/**** Robin Morin *****/
+Telf: 11-950559237
+Email: robinmorin79@gmail.com
+Skype: robin.bray.morin
